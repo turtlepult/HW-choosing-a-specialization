@@ -1,0 +1,15 @@
+C:\Users\vanya\Documents\TipoProgramist\homeworkGB\C#\HW choosing a specialization\bin\Debug\net6.0\HW choosing a specialization.exe
+C:\Users\vanya\Documents\TipoProgramist\homeworkGB\C#\HW choosing a specialization\bin\Debug\net6.0\HW choosing a specialization.deps.json
+C:\Users\vanya\Documents\TipoProgramist\homeworkGB\C#\HW choosing a specialization\bin\Debug\net6.0\HW choosing a specialization.runtimeconfig.json
+C:\Users\vanya\Documents\TipoProgramist\homeworkGB\C#\HW choosing a specialization\bin\Debug\net6.0\HW choosing a specialization.dll
+C:\Users\vanya\Documents\TipoProgramist\homeworkGB\C#\HW choosing a specialization\bin\Debug\net6.0\HW choosing a specialization.pdb
+C:\Users\vanya\Documents\TipoProgramist\homeworkGB\C#\HW choosing a specialization\obj\Debug\net6.0\HW choosing a specialization.csproj.AssemblyReference.cache
+C:\Users\vanya\Documents\TipoProgramist\homeworkGB\C#\HW choosing a specialization\obj\Debug\net6.0\HW choosing a specialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\Documents\TipoProgramist\homeworkGB\C#\HW choosing a specialization\obj\Debug\net6.0\HW choosing a specialization.AssemblyInfoInputs.cache
+C:\Users\vanya\Documents\TipoProgramist\homeworkGB\C#\HW choosing a specialization\obj\Debug\net6.0\HW choosing a specialization.AssemblyInfo.cs
+C:\Users\vanya\Documents\TipoProgramist\homeworkGB\C#\HW choosing a specialization\obj\Debug\net6.0\HW choosing a specialization.csproj.CoreCompileInputs.cache
+C:\Users\vanya\Documents\TipoProgramist\homeworkGB\C#\HW choosing a specialization\obj\Debug\net6.0\HW choosing a specialization.dll
+C:\Users\vanya\Documents\TipoProgramist\homeworkGB\C#\HW choosing a specialization\obj\Debug\net6.0\refint\HW choosing a specialization.dll
+C:\Users\vanya\Documents\TipoProgramist\homeworkGB\C#\HW choosing a specialization\obj\Debug\net6.0\HW choosing a specialization.pdb
+C:\Users\vanya\Documents\TipoProgramist\homeworkGB\C#\HW choosing a specialization\obj\Debug\net6.0\HW choosing a specialization.genruntimeconfig.cache
+C:\Users\vanya\Documents\TipoProgramist\homeworkGB\C#\HW choosing a specialization\obj\Debug\net6.0\ref\HW choosing a specialization.dll
