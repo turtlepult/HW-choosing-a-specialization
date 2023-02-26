@@ -13,3 +13,7 @@ for (int i = 0; i < mainmass.Length; i++)
         temp++;
     }
 }
+foreach (var item in tempmass)
+{
+    Console.Write($"{item} ");
+}
